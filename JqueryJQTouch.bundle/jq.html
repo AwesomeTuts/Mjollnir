@@ -7,13 +7,13 @@
   <body>
     <a href="http://jquery.com/">jQuery</a>
     <script src="jquery-1.7.js"></script>
-    <script>
- $(document).ready(function(){
-   $("a").click(function(event){
-     alert("As you can see, the link no longer took you to jquery.com");
-     event.preventDefault();
-   });
- });
+    <script type="text/javascript" src="jQTouch/jqtouch/"</script>
+	
+	<script type="text/javascript" src="jqtouch/jquery.1.4.2.min.js"></script>
+	<script type="text/javascript" src="jqtouch/jqtouch.js"></script>
+	
+    var jQT = $.jQTouch({ });
+    
     </script>
   </body>
 </html>
