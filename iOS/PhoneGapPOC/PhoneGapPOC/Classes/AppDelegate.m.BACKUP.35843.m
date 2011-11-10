@@ -104,6 +104,13 @@
 	return [ super execute:command];
 }
 
+<<<<<<< HEAD
+- (void)dealloc
+{
+	[ super dealloc ];
+}
+=======
 
+>>>>>>> e1e9d49ecbfb11a237db09b39b314b176887cb28
 
 @end

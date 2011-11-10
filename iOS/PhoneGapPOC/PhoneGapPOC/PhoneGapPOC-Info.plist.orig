@@ -28,7 +28,11 @@
 	<key>CFBundleIconFile</key>
 	<string>icon.png</string>
 	<key>CFBundleIdentifier</key>
+<<<<<<< HEAD
+	<string>com.nigeneric.PhoneGapPOC</string>
+=======
 	<string>Ben-Smith-Inc.PhoneGapPOC</string>
+>>>>>>> e1e9d49ecbfb11a237db09b39b314b176887cb28
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
